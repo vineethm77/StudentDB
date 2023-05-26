@@ -14,8 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     //hello everyone
-    //hiiiiii
-    //kikik
+
 
     public void signup(View view) {
         Intent i=new Intent(MainActivity.this,signup.class);
