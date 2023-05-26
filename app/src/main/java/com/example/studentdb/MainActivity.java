@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    //hello everyone
 
     public void signup(View view) {
         Intent i=new Intent(MainActivity.this,signup.class);
